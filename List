@@ -1,0 +1,21 @@
+{
+
+"haz3mnontop": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "EpicBooth"
+},
+
+"freemoney": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 1500
+},
+
+"RocketBooth2023": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "RocketBooth"
+}
+
+}
