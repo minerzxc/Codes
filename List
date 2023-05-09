@@ -24,4 +24,10 @@
     "RewardValue": 15000000000
 }
 
+"ggtestfff": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 15000000000
+}
+
 }
