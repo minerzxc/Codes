@@ -18,4 +18,10 @@
     "RewardValue": "RocketBooth"
 }
 
+"ggtest": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 15000000000
+}
+
 }
